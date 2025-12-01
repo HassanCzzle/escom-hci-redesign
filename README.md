@@ -1,2 +1,2 @@
-# escom-hci-redesign
-"HCI Project: Usability Evaluation and Redesign of ESCOM Malawi Interface"
+# PSIP Portal-hci-redesign
+"HCI Project: Usability Evaluation and Redesign of psip Malawi Interface"
